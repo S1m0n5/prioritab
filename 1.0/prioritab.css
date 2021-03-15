@@ -46,7 +46,15 @@ body {
 /* Colors */
 
 .main-bgcolor {
-  background-color: #222222;
+  background-color: #222222; 
+
+}
+
+.principal {
+  background-image: url("https://source.unsplash.com/random");
+  background-repeat: no-repeat;
+  background-size: cover; 
+
 }
 
 .main-font-color {
