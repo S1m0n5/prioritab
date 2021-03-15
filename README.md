@@ -6,5 +6,5 @@ Italian Fork of Prioritab Extension
 * Translation of the Tab in Italian :it:
 * Font changed to "Roboto"
 
-### Not implemented yet
+### Beta
 * Changed the background with https://source.unsplash.com/random
